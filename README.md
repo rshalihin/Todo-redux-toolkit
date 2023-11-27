@@ -1,5 +1,5 @@
 # <strong>Live Test</storng>
-<a href="https://todo-redux-toolkit-nine.vercel.app/">Cleack herre</a>
+<a href="https://todo-redux-toolkit-nine.vercel.app/">Click here</a>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
